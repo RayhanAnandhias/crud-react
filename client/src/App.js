@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Switch, Route, Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 import AddBerita from './components/AddBerita';
 import Berita from './components/Berita';
 import ListBerita from './components/ListBerita';
